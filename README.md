@@ -1,4 +1,4 @@
-# Jours Feries Classe PHP
+# Jours Fériés Classe PHP
 
 Version PHP7
 
